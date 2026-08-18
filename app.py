@@ -126,7 +126,7 @@ with tab1:
                 cm,
                 annot=True,
                 fmt="d",
-                cmap="Teal",
+                cmap="Blues",
                 cbar=False,
                 xticklabels=["Non-Default", "Default"],
                 yticklabels=["Non-Default", "Default"],
