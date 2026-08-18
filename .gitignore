@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+default_credit_card.csv
